@@ -1,0 +1,239 @@
+body{
+	font-family: cursive;
+	background-color: #E6D6B8;
+}
+
+.parte1{
+	background-color: #FFE883;
+	position: absolute;
+	width: 48%;
+	height: 80%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 1%;
+	border: 2px solid black;
+
+}
+
+p{
+	margin-top: 5%;
+}
+
+.ani1{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+}
+
+.b1{
+	border: 2px solid black;
+	width: 30%;
+	height: 10%;
+	position: absolute;
+	margin-left: 37%;
+	margin-top: 7%;
+	background-color: #FFBF3F;
+	font-size: 130%;
+	border-radius: 50%;
+	box-shadow:2px 2px 1px black;
+}
+
+.b1:hover{
+	width: 32%;
+	height:12%;
+	margin-left: 36%;
+	font-size: 150%;
+	color:orange;
+	background-color: white;
+	box-shadow:2px 2px 1px white;
+}
+
+.parte2{
+	background-color: pink;
+	position: absolute;
+	width: 48%;
+	height: 80%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 1%;
+	border: 2px solid black;
+}
+
+
+.b2{
+	
+	border: 2px solid black;
+	width: 30%;
+	height: 10%;
+	position: absolute;
+	margin-left: 37%;
+	margin-top: 5%;
+	background-color: 	#9476EC;
+	font-size: 130%;
+	border-radius: 50%;
+	box-shadow:2px 2px 1px black;
+}
+
+.b2:hover{
+	width: 32%;
+	height:12%;
+	margin-left: 36%;
+	font-size: 150%;
+	background-color: white;
+	color: #9476EC;
+}
+
+
+
+.entran{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+}
+
+.entranimagen{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+	display: none;
+}
+.aniquieto{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+}
+
+
+.ani1{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+}
+
+
+.personaje1{
+	width: 8%;
+	height: 11%;
+	margin-top: -10%;
+	position: absolute;
+	margin-left: 48.5%;
+	border-radius: 50%;
+}
+
+
+.personaje2{
+	width: 25%;
+	height: 52%;
+	margin-top: -63%;
+	position: absolute;
+	margin-left: 40%;
+	
+}
+
+.personaje3{
+	width: 10%;
+	height: 12%;
+	margin-top: -52%;
+	position: absolute;
+	margin-left: 48.5%;
+}
+
+.fondo{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+	margin-left: -45%;
+	position: absolute;
+
+}
+
+.parte3{
+	background-color: #EECEA2;
+	position: absolute;
+	width: 48%;
+	height: 80%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 1%;
+	border: 2px solid black;
+}
+
+.ani3{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+}
+
+.aniarbol{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+	margin-left: 5%;
+	display: none;
+	position: absolute;
+}
+
+.animanzana{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+	margin-left: 5%;
+	display: none;
+	position: absolute;
+}
+
+.anipelota{
+	width: 90%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+	margin-left: 5%;
+	display: none;
+	position: absolute;
+}
+
+.imagenn{
+	width: 89%;
+	height: 90%;
+	border: 2px solid black;
+	margin-top: 2%;
+	display: none;
+}
+
+.flecha1{
+	width: 10%;
+	height: 10%;
+	margin-top: -15%;
+	margin-left: 55%;
+	display: none;
+	position: absolute;
+}
+
+.flecha2{
+	width: 10%;
+	height: 10%;	
+	margin-top: -65%;
+	margin-left: 62%;
+	display: none;
+	display: none;
+	position: absolute;
+}
+
+.flecha3{
+	width: 10%;
+	height: 10%;	
+	margin-top: -58%;
+	margin-left: 55%;
+	display: none;
+	display: none;
+	position: absolute;
+}
